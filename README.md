@@ -1,4 +1,4 @@
-# 344-Final-Project
+# Skin-Cancer-Classification-Final-Project
 Skin Cancer classification final project
 
 Status 11/26/25:
