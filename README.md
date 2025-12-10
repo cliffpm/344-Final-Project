@@ -1,5 +1,6 @@
 # Skin-Cancer-Classification-Final-Project
 Skin Cancer classification final project
+(Our up to date code is in skin_cancer_classif.ipynb)
 
 Status 11/26/25:
   - Deployed model and ran 20 epochs on 80 % training 20% validation split.
