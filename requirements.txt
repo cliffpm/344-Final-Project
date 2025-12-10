@@ -1,0 +1,9 @@
+kagglehub
+pandas
+torch
+torchvision
+matplotlib
+scikit-learn
+numpy
+tqdm
+pytorch-grad-cam
