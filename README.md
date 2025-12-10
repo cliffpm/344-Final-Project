@@ -17,3 +17,5 @@ Status 12/8/25:
       - Increasing number of epochs
   - Analysis of original model's result with no optimization compared to results after adding all the optimizations shows our model
     is performing much better, and no behaviour of overfitting or underfitting is present.
+
+*AI was used to aid in the development of plotting results*
